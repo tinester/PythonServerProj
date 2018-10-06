@@ -2,6 +2,7 @@ import socket
 
 # Object which represents a server
 class ChatServer:
+    #change
     def __init__(self):
         self.welcomingPort = 8888
         #These are the sockets that will be relegated to clients
