@@ -2,7 +2,7 @@ from ChatClient import ChatClient
 from ChatServer import ChatServer
 
 #for testing
-print("we started isntantiation")
+print("we started instantiation")
 #Create a Server
 server = ChatServer()
 #for testing
